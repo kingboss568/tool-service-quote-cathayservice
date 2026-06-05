@@ -1,0 +1,45 @@
+Service Quote Template
+
+Service Quote Template is a practical service desk workspace for client success lead teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://quote.cathayservice.com/
+- https://quote.cathayservice.com/tool/
+- https://quote.cathayservice.com/workspace/
+- https://quote.cathayservice.com/reports/
+- https://quote.cathayservice.com/guides/
+- https://quote.cathayservice.com/library/
+- https://quote.cathayservice.com/templates/
+- https://quote.cathayservice.com/compare/
+- https://quote.cathayservice.com/checklists/
+- https://quote.cathayservice.com/integrations/
+- https://quote.cathayservice.com/settings/
+- https://quote.cathayservice.com/plans/
+- https://quote.cathayservice.com/faq/
+- https://quote.cathayservice.com/privacy/
+- https://quote.cathayservice.com/about/
+- https://quote.cathayservice.com/guides/draft-a-service-scope-1/
+- https://quote.cathayservice.com/guides/prepare-invoice-rows-2/
+- https://quote.cathayservice.com/guides/write-policy-starters-3/
+- https://quote.cathayservice.com/guides/organize-maintenance-visits-4/
+- https://quote.cathayservice.com/guides/compare-plan-limits-5/
+- https://quote.cathayservice.com/guides/export-a-review-packet-6/
+- https://quote.cathayservice.com/guides/draft-a-service-scope-7/
+- https://quote.cathayservice.com/guides/prepare-invoice-rows-8/
+- https://quote.cathayservice.com/guides/write-policy-starters-9/
+- https://quote.cathayservice.com/guides/organize-maintenance-visits-10/
+- https://quote.cathayservice.com/guides/compare-plan-limits-11/
+- https://quote.cathayservice.com/guides/export-a-review-packet-12/
+- https://quote.cathayservice.com/guides/draft-a-service-scope-13/
+- https://quote.cathayservice.com/guides/prepare-invoice-rows-14/
+- https://quote.cathayservice.com/guides/write-policy-starters-15/
+- https://quote.cathayservice.com/guides/organize-maintenance-visits-16/
+- https://quote.cathayservice.com/guides/compare-plan-limits-17/
+- https://quote.cathayservice.com/guides/export-a-review-packet-18/
+- https://quote.cathayservice.com/guides/draft-a-service-scope-19/
+- https://quote.cathayservice.com/guides/prepare-invoice-rows-20/
+- https://quote.cathayservice.com/guides/write-policy-starters-21/
+- https://quote.cathayservice.com/guides/organize-maintenance-visits-22/
+- https://quote.cathayservice.com/guides/compare-plan-limits-23/
+- https://quote.cathayservice.com/guides/export-a-review-packet-24/
+- https://quote.cathayservice.com/guides/draft-a-service-scope-25/

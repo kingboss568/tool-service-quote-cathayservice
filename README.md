@@ -1,12 +1,8 @@
 # Service Quote Template
 
-Static flagship utility site for cathayservice.com.
+Premium static SaaS rewrite for quote.cathayservice.com.
 
-- Custom domain: https://quote.cathayservice.com/
-- GitHub repo target: kingboss568/tool-service-quote-cathayservice
-- Tool family: Service Desk
-- Source plan: /Volumes/TEAM 2TB/＠85網站計畫
-
-## Deploy
-
-This directory is intended to be pushed to its own GitHub repository and served with GitHub Pages from the main branch root.
+- Pages: 121
+- Archetype: Service Desk
+- AdSense: ca-pub-0268893833921284
+- Source manifest: /Users/jushiung/Documents/江毓祥資料庫/大腦系統/outputs/85-flagship-tools-20260601/deployment-manifest.json
